@@ -1,0 +1,106 @@
+# 工具下载配置（由上传脚本自动生成，请勿手动修改）
+ai_prompt = """
+暂无
+"""
+download_type = "release"
+download_url = "https://github.com/TAXLY-WorkTools/fixed_asset_depreciation_tool/releases/download/v1.0.0/fixed_asset_depreciation_tool_full.zip"
+program_download_url = "https://github.com/TAXLY-WorkTools/fixed_asset_depreciation_tool/releases/download/v1.0.0/fixed_asset_depreciation_tool_src.zip"
+
+[[files]]
+name = "README.md"
+path = "README.md"
+asset_name = "README.md"
+download_url = "https://github.com/TAXLY-WorkTools/fixed_asset_depreciation_tool/releases/download/v1.0.0/README.md"
+size = 2123
+
+[[files]]
+name = "favicon.svg"
+path = "src/fixed_asset_depreciation_tool_v1.0/favicon.svg"
+asset_name = "favicon.svg"
+download_url = "https://github.com/TAXLY-WorkTools/fixed_asset_depreciation_tool/releases/download/v1.0.0/favicon.svg"
+size = 9522
+
+[[files]]
+name = "index.html"
+path = "src/fixed_asset_depreciation_tool_v1.0/index.html"
+asset_name = "index.html"
+download_url = "https://github.com/TAXLY-WorkTools/fixed_asset_depreciation_tool/releases/download/v1.0.0/index.html"
+size = 460
+
+[[files]]
+name = "icons.svg"
+path = "src/fixed_asset_depreciation_tool_v1.0/icons.svg"
+asset_name = "icons.svg"
+download_url = "https://github.com/TAXLY-WorkTools/fixed_asset_depreciation_tool/releases/download/v1.0.0/icons.svg"
+size = 5031
+
+[[files]]
+name = "index-CeluR0TD.js"
+path = "src/fixed_asset_depreciation_tool_v1.0/assets/index-CeluR0TD.js"
+asset_name = "index-CeluR0TD.js"
+download_url = "https://github.com/TAXLY-WorkTools/fixed_asset_depreciation_tool/releases/download/v1.0.0/index-CeluR0TD.js"
+size = 2602052
+
+[[files]]
+name = "prompt.md"
+path = "prompts/prompt.md"
+asset_name = "prompt.md"
+download_url = "https://github.com/TAXLY-WorkTools/fixed_asset_depreciation_tool/releases/download/v1.0.0/prompt.md"
+size = 6
+
+[[files]]
+name = "PixPin_2026-10-08_10-43-35.png"
+path = "images/PixPin_2026-10-08_10-43-35.png"
+asset_name = "PixPin_2026-10-08_10-43-35.png"
+download_url = "https://github.com/TAXLY-WorkTools/fixed_asset_depreciation_tool/releases/download/v1.0.0/PixPin_2026-10-08_10-43-35.png"
+size = 538717
+
+[[files]]
+name = "PixPin_2026-10-08_10-29-34.png"
+path = "images/PixPin_2026-10-08_10-29-34.png"
+asset_name = "PixPin_2026-10-08_10-29-34.png"
+download_url = "https://github.com/TAXLY-WorkTools/fixed_asset_depreciation_tool/releases/download/v1.0.0/PixPin_2026-10-08_10-29-34.png"
+size = 272476
+
+[[files]]
+name = "PixPin_2026-10-08_11-02-02.png"
+path = "images/PixPin_2026-10-08_11-02-02.png"
+asset_name = "PixPin_2026-10-08_11-02-02.png"
+download_url = "https://github.com/TAXLY-WorkTools/fixed_asset_depreciation_tool/releases/download/v1.0.0/PixPin_2026-10-08_11-02-02.png"
+size = 334305
+
+[[files]]
+name = "PixPin_2026-10-08_10-07-02.png"
+path = "images/PixPin_2026-10-08_10-07-02.png"
+asset_name = "PixPin_2026-10-08_10-07-02.png"
+download_url = "https://github.com/TAXLY-WorkTools/fixed_asset_depreciation_tool/releases/download/v1.0.0/PixPin_2026-10-08_10-07-02.png"
+size = 200302
+
+[[files]]
+name = "PixPin_2026-10-08_10-15-09.png"
+path = "images/PixPin_2026-10-08_10-15-09.png"
+asset_name = "PixPin_2026-10-08_10-15-09.png"
+download_url = "https://github.com/TAXLY-WorkTools/fixed_asset_depreciation_tool/releases/download/v1.0.0/PixPin_2026-10-08_10-15-09.png"
+size = 232335
+
+[[files]]
+name = "PixPin_2026-10-08_10-04-29.png"
+path = "images/PixPin_2026-10-08_10-04-29.png"
+asset_name = "PixPin_2026-10-08_10-04-29.png"
+download_url = "https://github.com/TAXLY-WorkTools/fixed_asset_depreciation_tool/releases/download/v1.0.0/PixPin_2026-10-08_10-04-29.png"
+size = 220339
+
+[[files]]
+name = "PixPin_2026-10-08_10-27-45.png"
+path = "images/PixPin_2026-10-08_10-27-45.png"
+asset_name = "PixPin_2026-10-08_10-27-45.png"
+download_url = "https://github.com/TAXLY-WorkTools/fixed_asset_depreciation_tool/releases/download/v1.0.0/PixPin_2026-10-08_10-27-45.png"
+size = 397607
+
+[[files]]
+name = "PixPin_2026-10-08_10-55-39.png"
+path = "images/PixPin_2026-10-08_10-55-39.png"
+asset_name = "PixPin_2026-10-08_10-55-39.png"
+download_url = "https://github.com/TAXLY-WorkTools/fixed_asset_depreciation_tool/releases/download/v1.0.0/PixPin_2026-10-08_10-55-39.png"
+size = 301370
+
